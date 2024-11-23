@@ -26,7 +26,7 @@
       {"clash_mode": "global", "server": "proxyDns"},
       {"rule_set": "geosite-geolocation-!cn", "server": "proxyDns"}
     ],
-    "final": "localDns",
+    "final": "proxyDns",
     "strategy": "ipv4_only"
   },
 
